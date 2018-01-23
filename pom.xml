@@ -157,7 +157,5 @@
             </plugin>
         </plugins>
     </build>
-	<developers>
-		
-	</developers>
+	
 </project>
